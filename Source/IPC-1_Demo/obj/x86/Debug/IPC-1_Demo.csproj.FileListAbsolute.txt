@@ -1,0 +1,58 @@
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.application
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.dll
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Form1.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Properties.Resources.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csproj.GenerateResource.Cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.application
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\MfxIpcLib\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.0.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Form1.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Properties.Resources.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csproj.GenerateResource.Cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.application
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.dll
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018 version\IPC-1_Demo v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.application
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.application
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.dll
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.pdb
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csprojResolveAssemblyReference.cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Form1.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Properties.Resources.resources
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csproj.GenerateResource.Cache
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe.manifest
+\\Mac\OneDrive\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.application
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.pdb
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe.manifest
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.application
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.exe
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\IPC-1_Demo.pdb
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.dll
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\bin\Debug\MfxIpcLib.pdb
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csprojResolveAssemblyReference.cache
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Form1.resources
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\DLLtester.Properties.Resources.resources
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.csproj.GenerateResource.Cache
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.exe.manifest
+Y:\Companies\MoneyFlex\Products\IPC-1\2018_version\IPC-1_Demo_v1.2.0.0\Source\IPC-1_Demo\obj\x86\Debug\IPC-1_Demo.application
